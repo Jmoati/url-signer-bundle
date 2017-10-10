@@ -1,0 +1,18 @@
+{
+    "name": "jmoati/url-signer-bundle",
+    "description": "Sign and check url with a key",
+    "type": "symfony-bundle",
+    "license": "CeCILL",
+    "authors": [
+        {
+            "name": "Jacques Moati",
+            "email": "jacques@moati.net"
+        }
+    ],
+    "require": {
+        "php": ">7.1"
+    },
+    "autoload": {
+        "psr-4": { "Jmoati\\UrlSignerBundle\\": "" }
+    }
+}

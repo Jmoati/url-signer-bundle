@@ -1,0 +1,4 @@
+services:
+    Jmoati\UrlSignerBundle\Service\UrlSignerService:
+        class: Jmoati\UrlSignerBundle\Service\UrlSignerService
+        public: true
